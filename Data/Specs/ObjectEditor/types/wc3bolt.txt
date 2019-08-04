@@ -1,0 +1,12 @@
+raw
+
+texPath
+avgSegLen	100
+width	45
+red	255
+green	255
+blue	255
+alpha	255
+noiseScale	0.04
+texCoordScale	0.5
+duration	2

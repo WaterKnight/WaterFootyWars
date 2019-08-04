@@ -1,0 +1,113 @@
+1
+refName
+
+isMod
+name	Aruruw
+raw	Aru
+	
+classes	
+hero	true
+structure	false
+team	DEFENDER
+	
+model	units\nightelf\HeroMoonPriestess\HeroMoonPriestess.mdx
+modelAttachPts	
+modelAnims	
+modelAttachMods	medium
+modelBones	
+standardScale	1.
+	
+elevPts	0
+elevRad	30.
+maxRoll	10.
+maxPitch	45.
+scale	1.3
+selScale	2.25
+vertexColorRed	
+vertexColorGreen	
+vertexColorBlue	
+vertexColorAlpha	
+	
+impactZ	60.
+outpactX	0.
+outpactY	0.
+outpactZ	100.
+	
+shadowPath	NORMAL
+shadowWidth	200.
+shadowHeight	200.
+shadowOffsetX	85.
+shadowOffsetY	85.
+	
+attachments	
+blood	
+icon	ReplaceableTextures\CommandButtons\BTNPriestessOfTheMoon.blp
+soundset	HeroMoonPriestess
+tooltip	
+uberTooltip	
+	
+moveType	HORSE
+moveSpeed	320.
+turnRate	0.5
+height	
+heightMin	
+animWalk	300.
+animRun	300.
+moveInterp	4
+	
+animBlend	0.15
+animCastWaitBefore	0.3
+animCastWaitAfter	0.83
+	
+armorAmount	2.
+armorSound	Flesh
+armorType	HERO
+life	100.
+lifeRegen	0.
+mana	100.
+manaRegen	0.
+spellPower	
+sightRange	1800.
+sightRangeNight	800.
+	
+attackType	MISSILE
+attackCooldown	1.55
+attackRange	600.
+attackRangeAcq	650.
+attackRangeBuffer	250.
+attackMinRange	
+attackTargetFlags	ground,structure,debris,air,item,ward
+attackWaitBefore	0.3
+attackWaitAfter	0.
+attackSound	
+	
+attackMissileModel	Abilities\Weapons\MoonPriestessMissile\MoonPriestessMissile.mdl
+attackMissileSpeed	900.
+attackMissileArc	0.05
+	
+damageType	PIERCE
+damageAmount	12
+damageDices	3
+damageSides	3
+	
+collisionSize	32.
+combatFlags	ground
+deathTime	3.
+exp	
+gold	
+	
+abilities	
+	
+heroAttribute	AGILITY
+heroAgi	12.
+heroAgiUp	3.75
+heroInt	11.
+heroIntUp	4.
+heroStr	8.5
+heroStrUp	3.5
+heroArmorUp	0.75
+heroNames	Lady Aruruw de Sarafin
+	
+heroAbilities	EbonyShot;HopNDrop;EnchantedArrow;Zodiac
+abc	ABC		1
+def	DEF		2

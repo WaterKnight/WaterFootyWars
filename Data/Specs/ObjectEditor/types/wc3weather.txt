@@ -1,0 +1,50 @@
+raw
+
+texPath	ReplaceableTextures\Weather\RaysOfLight.blp
+alphaMode	1
+useFog	0
+height	200
+angleX	-20
+angleY	-20
+emissionRate	0.9
+lifespan	3
+particles	54
+speed	-300
+accel	0
+variance	0.07
+texR	1
+texC	1
+head	0
+tail	1
+tailLength	10
+latitude	0
+longitude	180
+midTime	0.2
+sound
+
+redStart	10
+greenStart	100
+blueStart	255
+alphaStart	25
+
+redMid	10
+greenMid	100
+blueMid	255
+alphaMid	180
+
+redEnd	10
+greenEnd	100
+blueEnd	255
+alphaEnd	0
+
+scaleStart	30
+scaleMid	30
+scaleEnd	30
+
+hUVStart	0
+hUVMid	0
+hUVEnd	0
+
+tUVStart	0
+tUVMid	0
+tUVEnd	0

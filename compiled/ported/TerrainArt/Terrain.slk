@@ -1,0 +1,17 @@
+ID;PWXL;N;E
+B;Y1;X14;D0
+C;X1;Y1;K"tileID"
+C;X2;K"footprints"
+C;X3;K"InBeta"
+C;X4;K"dir"
+C;X5;K"file"
+C;X6;K"blightPri"
+C;X7;K"walkable"
+C;X8;K"cliffSet"
+C;X9;K"flyable"
+C;X10;K"version"
+C;X11;K"name"
+C;X12;K"convertTo"
+C;X13;K"comment"
+C;X14;K"buildable"
+E

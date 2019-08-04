@@ -1,0 +1,11 @@
+Permanent/Active Item Border Parameters:
+load normal border
+canal mixer
+red: red + 80, constant +10
+green: green + 40
+blue: blue + 10
+
+Charged Item Border Parameters:
+red: red + 40
+green: green + 80
+blue: blue + 100

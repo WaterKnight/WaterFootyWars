@@ -1,0 +1,12 @@
+name
+raw
+
+texPath
+cliffSet
+
+walkable
+flyable
+buildable
+
+footprints
+blightPriority

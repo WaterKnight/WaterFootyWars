@@ -1,0 +1,522 @@
+[u]Spielprinzip:[/u]
+[list]Es gibt 4 verfeindete Teams à la 3 Spieler. Jeder Spieler kann sich ein Volk aussuchen, dass er spielen möchte und bekommt dann ein Haupthaus. An dem Haupthaus erscheinen alle x Sekunden Einheiten (falls überschüssiges Essen vorhanden ist), die man dann in die Schlacht gegen die anderen Teams schicken kann. Ziel des Spiels ist es, die gegnerischen Haupthäuser zu zerstören.[/list]
+
+[u]Minikarte:[/u]
+[list][IMG]http://freenet-homepage.de/WaterKnight/FootmenWars/Minimap.jpg[/IMG][/list]
+
+[u]Fakten:[/u]
+[list]Name: Water's Footmen Wars
+Kartengröße: 64*64
+Tileset: Stadtgebiet
+Sprache: Deutsch, bis auf den Titel
+Spielerzahl: 12
+Protection: ungeschützt[/list]
+
+[u]Geplante Features:[/u]
+[list]-4 Völker
+-5 Upgrades --> 4 allgemeine, 1 volkspezifischer
+-4 Haupthausstufen --> stärkere Einheiten, bessere Upgrades
+-Helden --> 3 normale Fähigkeiten, 1 Ultimate, Attribut-Bonus
+-Söldner
+-Gegenstände
+-zufällige Wettereffekte --> wetterspezifische Ereignisse
+-normale + zwei themenbasierte Arenen mit unterschiedlichen Eigenschaften
+-eigene Soundkulisse
+-etc.[/list]
+
+Allgemeines System gibt es in Footy ja kaum. Die Einheiten habe ich bisher nur für die ersten Haupthausstufen erstellt und sie müssen noch ausgeglichen werden. Wie lange ich für Gegenstände und Ausbaustufen brauche, kommt darauf an, was mir da so für Sachen einfallen, das Standardzeug (+Stats) sollte aber schnell gehen. Zum Sonstigen zähle ich jetzt das zufällige Wetter und die zufälligen Ereignisse, da habe ich eigentlich schon welche im Sinn. Die ersten 20% zählt da das bereits fertige Multiboard, das Auskunft über Morde, Heldenmorde, Spielzeit, die besetzten Spielerplätze und ihre Farben gibt.
+
+Was wohl am meisten Zeit beansprucht, sind die Helden. Bis mir da erstmal Fähigkeiten einfallen, die meiner Meinung nach zum Helden, untereinander und ins Spiel passen und bis diese Fähigkeiten auch noch technisch umgesetzt sind, das kann dauern. Ich habe gerade mal einen Helden fertig, der im Folgenden beschrieben wird, aber bei dem hatte ich mir die Fähigkeiten auch komplett neu zusammengestellt. Sonst habe ich im Gedächtnis einige Ideen für Fähigkeiten, die aber nicht zu diesem Helden passten und somit wohl später, bei anderen Helden eingebaut werden.[/list]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[u]Erster Held (aktualisiert):[/u]
+
+[center][IMG]http://peq.pe.ohost.de/download229.jpg[/IMG][/center]
+
+[list=a][*][i]Name:[/i] Magierin
+[*][i]Primäres Attribut:[/i] Intelligenz
+[*][i]Angriff:[/i] Fernkampf
+[*][i]Fähigkeiten:[/i]
+
+[IMG]http://peq.pe.ohost.de/download158.jpg[/IMG] [i][u]Feuerstoß:[/u] Beschwört einen Phönix aus sengenden Flammen, der auf seinem Weg zum Zielpunkt feindlichen Einheiten Brandschaden zufügt. Getroffene, eingefrorene Einheiten werden bei Berührung aufgetaut.[/i]
+
+[IMG]http://peq.pe.ohost.de/download169.jpg[/IMG] [i][u]Orkan:[/u] Entfacht einen wilden Sturm, der bewegliche Objekte in die angegebene Richtung bläst.[/i]
+
+[IMG]http://peq.pe.ohost.de/download160.jpg[/IMG] [i][u]Eisige Präsenz:[/u] Eine frostige Aura, die das Bewegungstempo naher feindlicher Einheiten drastisch sinken lässt.[/i]
+
+[IMG]http://peq.pe.ohost.de/download161.jpg[/IMG] [i][u]Höllenbestie beschwören (Ultimate):[/u] Eine Höllenbestie zu beschwören und sie zu kontrollieren, ist nicht einfach. Die Magierin muss deswegen eine große Menge Mana aufwenden. Dafür steht ihr die Höllenbestie als starker Nahkämpfer bei und besitzt die Fähigkeiten "Magie-Immunität" und "Dauerhafter Feuerbrand".[/i][/list=a]
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[u]Screenshots:[/u]
+
+[list][IMG]http://freenet-homepage.de/WaterKnight/FootmenWars/Overview.jpg[/IMG]
+
+Überblick, die neutralen Gebäude sind noch nicht zu sehen, da das ein Screenshot aus dem Editor heraus war und ich die Einheiten lieber manuell per Auslöser setze.
+
+[IMG]http://freenet-homepage.de/WaterKnight/FootmenWars/Flag.jpg[/IMG]
+
+Mit der Flagge kann man das Haupthaus errichten lassen. Da sie unverwundbar ist, kann man sie nicht angreifen. Wenn der Spieler nach einer Zeit sein Volk noch nicht gewählt hat, wird automatisch gewählt.
+
+[IMG]http://freenet-homepage.de/WaterKnight/FootmenWars/FrostNova.jpg[/IMG]
+
+Jaina, die eine Frost-Nova wirkt. Es ist keine wirkliche Nova, aber der Begriff passt gut, da der Effekt von innen und nach außen wirkt und dabei so ziemlich die Einheiten in allen Richtungen trifft.[/list]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[u]Zweiter Held (aktualisiert):[/u][list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download215.jpg[/IMG][/center]
+
+[*][i]Name:[/i] Paladin
+[*][i]Primäres Attribut:[/i] Kraft
+[*][i]Angriff:[/i] Nahkampf mit Hammer
+[*][i]Fähigkeiten:[/i]
+
+[IMG]http://peq.pe.ohost.de/download167.jpg[/IMG] [i][u]Licht der Reinigung:[/u] Heilt ein befreundetes Ziel, indem über Zeit Trefferpunkte regeneriert werden. Die Fähigkeit wird abgebrochen, wenn das Ziel den Wirkungsbereich verlässt. Wird 'Licht der Reinigung' bis zum Ende gewirkt, so wird die geheilte Einheit von allen aufhebbaren Zaubern, von denen sie betroffen ist, befreit.[/i]
+
+[IMG]http://peq.pe.ohost.de/download168.jpg[/IMG] [i][u]Standfestigkeit:[/u] Die Paladine zählen zu den stärksten Kämpfern dieses Landes. Sie müssen die Untertanen und das Militär mental, wie auch seelisch unterstützen. Wenn diese Fähigkeit gewirkt wird, erhalten der Paladin und seine in Nähe befindlichen, befreundeten Einheiten einen zusätzlichen Rüstungsbonus, der den künftig erlittenen, körperlichen Schaden für eine Zeitlang vermindert.[/i]
+
+[IMG]http://peq.pe.ohost.de/download206.jpg[/IMG] [i][u]Energiespalt:[/u] Immer, wenn der Paladin physischen Schaden erleidet, besteht eine Chance, dass heilige Lichtfunken aus der Wunde austreten, die daraufhin auf die schwerbeschädigste befreundete Einheit in der Nähe geschossen werden und sie heilen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download173.jpg[/IMG] [i][u]Wiederbelebung (Ultimate):[/u] Wenn 'Wiederbelung' gewirkt wird, tritt ein Engel vom Himmel herab, welcher bis zu 8 gestorbene, befreundete Einheiten aus den Klauen des Todes entreißt und ihren toten Körpern somit neues Leben einhaucht.[/i][/list]
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+Außerdem wurde Jainas "Feuerball"-Fähigkeit ausgetauscht bzw. modifiziert (siehe erster Post).
+
+Morgen kommen dann noch Informationen zu den Völkern und ein paar Bilder.
+
+[QUOTE][i]Original geschrieben von Draculark[/i]
+aber da es eh nur temporär ist, ist es ja schon "neu" :)[/QUOTE]
+
+Eigentlich basiert die Fähigkeit auf einer von Blizzard "Gegenstand: Zeitlich beschränkter Gebiets-Rüstungs-Bonus".
+
+[QUOTE][i]Original geschrieben von Draculark[/i]
+wie wäärs wenn resurrection zufallsmäßig ist.
+
+zu 90% belebt es befreundete units und zu 10% versagt der zauber und ein todesengel oder sowas kommt daher,was umstehende feindliche units schädigt :)[/QUOTE]
+
+Das würde ja einen Riesenunterschied machen. Wiederbelebung kann man auch außerhalb von Kämpfen wirken und ein dermaßen entscheidender Zufall bei einer Ultimate? Zuviel Zufall würde der Balance zu sehr schaden.
+
+So, Startaufstellung für die Völker (mit Haupthäusern (+produzierte Nahrung) und Spawns (+verbrauchte Nahrung)):
+
+Der Spawn ist durch die Nahrungsgrenze eingeschränkt.
+
+[u]Mensch:[/u]
+[i]Stufe 1:[/i] Kaserne (Mensch) (35) - Soldat (1)
+[i]Stufe 2:[/i] Rathaus (50) - Scharfschütze (2)
+[i]Stufe 3:[/i] Burg (65) - Ritter (3)
+[i]Stufe 4:[/i] Schloss (80) - Zauberin (2)
+
+[u]Orc:[/u]
+[i]Stufe 1:[/i] Kaserne (Orc) (40) - Schamane (1)
+[i]Stufe 2:[/i] Haupthaus (50) - Räuber (2)
+[i]Stufe 3:[/i] Hochburg (60) - Grunzer (3)
+[i]Stufe 4:[/i] Festung (70) - Windreiter (4)
+
+[u]Untote:[/u]
+[i]Stufe 1:[/i] Gruft (35) - Ghul (1)
+[i]Stufe 2:[/i] Nekropole (50) - Gruftbestie (2)
+[i]Stufe 3:[/i] Halle der Toten (60) - Totenbeschwörer (2)
+[i]Stufe 4:[/i] Schwarze Zitadelle (85) - Monstrosität (3)
+
+[u]Nachtelf:[/u]
+[i]Stufe 1:[/i] Baum des Lebens (34) - Bogenschützin (2)
+[i]Stufe 2:[/i] Urtum des Krieges (46) - Jägerin (2)
+[i]Stufe 3:[/i] Urtum des Wissens (50) - Dryade (2)
+[i]Stufe 4:[/i] Urtum der Wunder (62) - Krallen-Druide (Nachtelfengestalt) (3)
+
+Das ist mit Absicht so gemixt, dass in den einzelnen Stufen die Nahkämpfer/Fernkämpfer/Zauberer bei anderen Völkern nicht unbedingt auf gleichartige Einheiten treffen. So bekommen die Völker einen individuelleren Touch. Allerdings wird es so sein, dass man auf höheren Stufen noch Einheiten der vorigen Stufen ausbilden kann.
+
+Zum Beispiel wird man dann in der Burg neben Rittern noch Soldaten und Scharfschützen ausbilden können.
+
+
+Alle Haupthäuser bekommen eine Heilungsaura, die die Wunden befreundeter Einheiten in Reichweite kuriert.
+
+Dann gibt es noch Ausbaustufen, die jedes Volk ihr Eigen nennen darf. Das werden wohl aber maximal 2 pro Volk. Diese Ausbaustufen sind auf höheren Haupthausstufen zu erwerben.
+
+Die Erste steht bereits:
+[i]Mensch:[/i] Verstärkung der Heilungsaura des Haupthauses
+[i]Orc:[/i] Eine zweite Aura für das Haupthaus, die erlittenen, körperlichen Schaden befreundeter Einheiten auf die Angreifer zurückwirft (Dornenaura)
+[i]Untote:[/i] Erhöhte Spawnrate
+[i]Nachtelf:[/i] Erhöhte Reichweite für die Fernkampf-Einheiten
+
+[u]Dritter Held:[/u][list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download230.jpg[/IMG][/center]
+
+[*][i]Name:[/i] Berserker
+[*][i]Primäres Attribut:[/i] Beweglichkeit
+[*][i]Angriff:[/i] Nahkampf
+[*][i]Fähigkeiten:[/i]
+
+[IMG]http://peq.pe.ohost.de/download174.jpg[/IMG] [i][u]Wirbelwind:[/u] Durch starke Anspannung und Konzentration gelingt es dem Berserker, sich sehr schnell um seine eigene Achse zu drehen. Dabei benutzt er seine scharfe Klinge als Außenseite seines kleinen Wirbelsturms und richtet an feindlichen Einheiten in der Umgebung körperliche Schäden an.[/i]
+
+[IMG]http://peq.pe.ohost.de/download175.jpg[/IMG] [i][u]Raserei:[/u] Entfacht die Kampfeslust im Herzen des Kriegers. Dies ermöglicht ihm für kurze Zeit große Kraftreserven freizusetzen, die das Angriffs- und Bewegungstempo immens erhöhen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download176.jpg[/IMG] [i][u]Klingenmeister:[/u] Erhöht den Schaden des Besitzers dieser Fertigkeit dauerhaft. Bei einem Angriff besteht die Chance, den angerichteten Schaden zu vervielfachen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download177.jpg[/IMG] [i][u]Geistesbrecher (Ultimate):[/u] Diese mächtige Fähigkeit ermöglicht es dem Anwender, neben einem Anfangsschaden den Manavorrat des Gegners gezielt anzugreifen. Dabei explodiert ein Teil des Manas schlagartig, so dass die Energien nach außen dringen und der Körper des Ziels für kurze Zeit paralysiert wird. Die Länge der Betäubung hängt von der Menge des zerstörten Manas ab. Kann nur auf feindliche Einheiten gewirkt werden, die einen Manavorrat besitzen.[/i][/list]
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+Für die ganzen oben angesprochenen Einheiten habe ich jetzt erstmal die Grundeinstellungen vorgenommen und sie miteinander verlinkt. Balancing kommt später. Die Ausbaustufen habe ich vielleicht zu 35% fertig.
+
+*sich mal wieder meld*
+
+Das Projekt ist [u]nicht[/u] beendet, ich mappe nur sehr langsam. Außerdem verbessere ich meinen Coding-Stil immer weiter, so dass ich viele Funktionen noch einige Male überarbeite. An den Helden überlege ich einige Zeit und lösche dann doch teilweise wieder stundenlange Arbeit, weil mir diese oder jene Fähigkeit nicht gefällt.
+
+Das Terrain habe ich bis jetzt nur insofern verändert, dass ich ein paar leichte Erhöhungen eingebaut habe und im Spiel zufällig Sträucher auf dem Gras erzeugt werden.
+
+Die Einheiten muss ich auch noch einmal alle balancen, da die Kämpfe zurzeit wegen hohem Schaden im Verhältnis zur Verteidigung zu kurz sind, so dass die Stellung und das schnelle Spiel zu wichtig sind, als dass man noch gemäßigt microen könnte.
+
+Ansonsten gibt es 3 neue Helden:
+
+[center][IMG]http://peq.pe.ohost.de/download218.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Medizinmann
+[*]Primäres Attribut: Intelligenz
+[*]Angriff: Fernkampf, sofort
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download178.jpg[/IMG] [i][u]Kleines Gewitter:[/u] Lässt mehrere Wellen von Blitzschlägen auf den Boden prasseln, die gegnerischen Einheiten Schaden zufügen und sie betäuben.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download180.jpg[/IMG] [i][u]Seelenbindung:[/u] Der Medizinmann nutzt seine mentale Stärke, um den Geist einer gegnerischen Einheit zu unterdrücken und verhindert dadurch temporär, dass diese sich bewegen kann.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download181.jpg[/IMG] [i][u]Dunke Wolke:[/u] Beschwört eine schwarze Wolke über dem Haupt einer gewünschten Einheit. Die Wolke verfolgt das Ziel und lässt in kurzen Abständen Blitze senkrecht nach unten schnellen, die an gegnerischen Einheiten immensen Schaden verursachen und sie anschließend betäuben.[/i]
+
+[IMG]http://peq.pe.ohost.de/download182.jpg[/IMG] [i][u]Geist-Übernahme (Ultimate)[/u]: Diese Fähigkeit gewährt die permanente Kontrolle über eine gegnerische Einheit.[/i][/list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[center][IMG]http://peq.pe.ohost.de/download217.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Namensloser
+[*]Primäres Attribut: Beweglichkeit
+[*]Angriff: Nahkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download184.jpg[/IMG] [i][u]Giftstoß:[/u] Vergiftet eine angewählte feindliche Einheit, so dass sie neben einem Anfangsschaden zusätzlichen Giftschaden in Zeitabständen erleidet.[/i]
+
+[IMG]http://peq.pe.ohost.de/download185.jpg[/IMG] [i][u]Fleischbombe:[/u] Zerstört eine befreundete Einheit, indem ein beschworener Keim einen Unterdruck in den Organen des Opfers erzeugt, der die Eingeweide nach außen dringen lässt und Schaden in Abhängigkeit der verbleibenden Trefferpunkte an allen in der Nähe befindlichen Einheiten anrichtet.[/i]
+
+[IMG]http://peq.pe.ohost.de/download186.jpg[/IMG] [i][u]Resteverwertung:[/u] Solang sich ein dunkler Reiter mit dieser Aura in der Nähe befindet, besteht eine Chance, dass eine sterbende gegnerische Einheit als Zombie wiederaufersteht und dem Helden fortan dienen, bis der Kadaver schließlich zu Staub zerfällt.
+passiv[/i]
+
+[IMG]http://peq.pe.ohost.de/download187.jpg[/IMG] [i][u]Metamorphose (Ultimate)[/u]: Wenn diese Fähigkeit aktiviert wird, verwandeln sich der Reiter und sein Pferd eine Zeitlang in stinkende Bestien. Stacheln wachsen aus dem Körper des Helden, der verursachte Schaden und das Bewegungstempo steigen an. Außerdem schädigt der Gestank feindliche Einheiten, die sich in Reichweite befinden, stetig.[/i][/list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[center][IMG]http://peq.pe.ohost.de/download214.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Lich
+[*]Primäres Attribut: Intelligenz
+[*]Angriff: Fernkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download188.jpg[/IMG] [i][u]Lebensauger:[/u] Zehrt an den Trefferpunkten einer gegnerischen Einheit, um sie auf den Lich zu übertragen. Entfernt sich das Ziel zu weit vom Lich oder läuft in dessen Rücken, bricht der Zauber ab.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download189.jpg[/IMG] [i][u]Eisball:[/u] Feuert ein frostiges Geschoss auf eine feindliche Einheit, um diese zu beschädigen und sie vorübergehend einzufrieren.
+automatisierbar, verbraucht Trefferpunkte beim Zaubern[/i]
+
+[IMG]http://peq.pe.ohost.de/download191.jpg[/IMG] [i][u]Fluch der Blutlinie:[/u] Verzaubert alle Einheiten im Zielgebiet so, dass sie ein Teil des physischen Schadens, den sie während der Dauer des Fluchs feindlichen Einheiten zufügen, ebenfalls erleiden.[/i]
+
+[IMG]http://peq.pe.ohost.de/download190.jpg[/IMG] [i][u]Mana-Diebstahl (Ultimate):[/u] Überträgt einen relativen Großteil des Manavorrats einer gewählten Einheit, um sie dem Lich zugute kommen zu lassen.[/i][/list=a]
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+Als Nächstes werde ich dann wohl mal Wetter mit Zufallsereignissen einbauen, was recht schnell gehen sollte.
+
+Es ist etwas her. Zwar habe ich keine richtige Pause eingelegt, jedoch nur sehr unregelmäßig und langsam gearbeitet.
+
+Bezüglich der Planung hat sich in der Zwischenzeit nicht viel geändert.
+
+Dennoch habe ich mit Doojoo etwas abgesprochen:
+1. Neben der klassischen Arena wird es mindestens 2 weitere, themenbasierte Arenen geben, die nicht nur von der Grafik, sondern auch von der Spielbarkeit Unterschiede aufweisen werden. Das Spielfeld wird dann wahrscheinlich entweder vom Host oder Spieler 1 entschieden werden können.
+
+2. Wie geplant bringt das Wetter von Zeit zu Zeit Ereignisse mit sich, die das Spielgeschehen beeinflussen können und somit die Spieltiefe etwas steigern.
+
+3. Den Spielern wird auch die Möglichkeit geboten, selber bestimmte Ereignisse auszulösen, indem in den Haupthäusern oder einem anderen Gebäude eine Auswahl zur Verfügung steht. Der Manavorrat dieses/dieser Monuments/Monumente dient dabei als Währung und gilt für das gesamte Team, also ein Teamkonto. Damit soll das Teamspiel gefördert und die Anzahl der Ereignisaufrufe eingeschränkt werden.
+
+Fazit:
+Die Eigenschaften des Spielfeldes erstrecken sich über die gesamte Spieldauer.
+Das Wetter ist alternierend, so dass unterschiedliche Eigenschaften in Abständen auftreten können.
+
+Die beiden Aspekte zähle ich jetzt mal zu den passiven taktischen Elementen.
+Letztendlich hat der Spieler noch die Möglichkeit, selber aktiv Ereignisse hervorzurufen.
+
+Welche Ereignisse das genau sein werden, wird noch entschieden. Allerdings habe ich da schon ein paar Ideen...
+
+Soviel zur Planung, jetzt zu etwas Handfestem - zwei neue Helden und ein Teil der bisher 14 erhältlichen Gegenstände:
+
+Helden:
+
+[center][IMG]http://peq.pe.ohost.de/download213.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Botaniker
+[*]Primäres Attribut: Intelligenz
+[*]Angriff: Fernkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download192.jpg[/IMG] [i][u]Natürliche Umarmung:[/u] Umschlingt eine angewählte feindliche Einheit mit Wurzeln, die ihr von Zeit zu Zeit Lebensenergie absaugen, um sie auf den Botaniker zu übertragen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download193.jpg[/IMG] [i][u]Wundersamen:[/u] Infolge seiner Studien über den Wald und seine Selbstverteidigung ist es dem Pflanzenkundigen gelungen, die Samen einer Kriegerklasse zu identifizieren und günstig nachzubilden. Diese Fähigkeit erzeugt am Zielpunkt nacheinander viele kleine Treants, die dem Kampf beiwohnen und unterstützend wirken.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download194.jpg[/IMG] [i][u]Dünger:[/u] Erhöht die Rüstung und das Bewegungstempo des Botanikers und verbessert zudem die Fähigkeit 'Klangloser Nebel'.[/i]
+
+[IMG]http://peq.pe.ohost.de/download195.jpg[/IMG] [i][u]Klangloser Nebel (Ultimate):[/u] Durch das Wirken dieser Fähigkeit bildet sich ein Nebel um den Anwender. Der Nebel schluckt Schall und verhindert, dass feindliche Einheiten in Reichweite magische Fähigkeiten einsetzen können.[/i][/list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+[center][IMG]http://peq.pe.ohost.de/download219.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Kopfgeld-Jägerin
+[*]Primäres Attribut: Beweglichkeit
+[*]Angriff: Fernkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download196.jpg[/IMG] [i][u]Pfeilregen:[/u] Schießt zahlreiche Pfeile auf das Zielgebiet, die Schaden an getroffenen, gegnerischen Einheiten verursachen.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download197.jpg[/IMG] [i][u]Leichte Beute:[/u] Markiert ein Ziel als gesucht, das daraufhin mehr Schaden durch physische Angriffe erleidet. Wenn der Träger des Mals stirbt, lässt er Extragold für den Besitzer des Mörders fallen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download198.jpg[/IMG] [i][u]Katzensprung:[/u] Das Tier, auf dem die Kopfgeld-Jägerin reitet, ist wie die Besitzerin kein Schmusekätzchen. Der Tiger springt beim Einsatz dieser Fertigkeit zum Zielpunkt, was der Kopfgeld-Jägerin erlaubt, Kämpfen beizutreten oder sie zu verlassen. Außerdem werden feindliche Einheiten, die im Flug getroffen werden, von den Krallen der Raubkatze verwundet und fangen an, zu bluten. [/i]
+
+[IMG]http://peq.pe.ohost.de/download199.jpg[/IMG] [i][u]Zaubertrennung (Ultimate):[/u] 'Zaubertrennung' ist eine weitere Möglichkeit der Kopfgeld-Jägerin, Gold zu horten. Dabei spring ein Geschoss zum angewählten Ziel und prallt von da zu weiteren Zielen. Wenn die Fähigkeit auf eine freundliche Einheit gewirkt wird, werden negative Zauberverstärker in Gold umgewandelt, wenn das Ziel ein feindliches ist, werden positive Zauberverstärker konvertiert.[/i][/list=a]
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+Gegenstände:
+
+Dauerhaft:
+
+[IMG]http://peq.pe.ohost.de/download200.jpg[/IMG] [i][u]Umhang des Gelehrten:[/u] Erhöht die Rüstung des Helden um 2 und seine Intelligenz um 3, wenn getragen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download201.jpg[/IMG] [i][u]Juwelenbesetzter Dolch der Gier:[/u] Erhöht den Schaden des Helden um 3, wenn getragen. Erhaltenes Gold durch Morde von Nicht-Helden-Einheiten, die der Träger durch physischen Schaden vollzogen hat, ist um 35% erhöht.[/i]
+
+[IMG]http://peq.pe.ohost.de/download202.jpg[/IMG] [i][u]Herzstein:[/u] Erhöht die maximalen Trefferpunkte des Trägers um 150. Schützt vor kritischen Angriffen.[/i]
+
+Dazu ist zu schreiben, dass alle normalen Einheiten eine kleine Chance auf einen kritischen Angriff haben werden, der vom Angriff ausgeteilten Schaden vervielfachen wird. Ich bin mir noch nicht sicher, ob dieser Gegenstand auch die Fähigkeit "Klingenmeister" beeinflussen wird.
+
+Aufladbar:
+
+[IMG]http://peq.pe.ohost.de/download203.jpg[/IMG] [i][u]Spinnen-Ei:[/u] Beschwört eine Spinne, die mittlere Rüstungs- und Schadenswerte aufweist. Zudem verfügt die Spinne über die Fähigkeiten "Giftangriff" und "Einspinnen". Hält 80 Sekunden lang an.[/i]
+
+[IMG]http://peq.pe.ohost.de/download204.jpg[/IMG] [i][u]Flüchtiger Manatrank:[/u] Frischt bis zu 200 Manapunkte wieder auf. Allerdings verflüchtigt sich das gewonnene Mana innerhalb von 30 Sekunden wieder.[/i]
+
+[IMG]http://peq.pe.ohost.de/download205.jpg[/IMG] [i][u]Méca-Pinguin:[/u] Ein Méca-Pinguin, der in eine gewünschte Zielrichtung watschelt und nach 6 Sekunden explodiert. Die Explosion richtet an in der Nähe befindlichen feindlichen Einheiten 250 Punkte Schaden an.[/i]
+
+Der Name Méca-Pinguin ist von dem Spiel "Little Big Adventure: Relentless" und seinem Nachfolger übernommen.
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+Zwei Fähigkeiten der Hexe wurden ersetzt. Statt Frost-Nova und Brillanz-Aura besitzt sie nun diese beiden Zauber:
+
+[IMG]http://peq.pe.ohost.de/download169.jpg[/IMG] [i][u]Orkan:[/u] Entfacht einen wilden Sturm, der bewegliche Objekte in die angegebene Richtung bläst.[/i]
+
+[IMG]http://peq.pe.ohost.de/download160.jpg[/IMG] [i][u]Eisige Präsenz:[/u] Eine frostige Aura, die das Bewegungstempo naher feindlicher Einheiten drastisch sinken lässt.[/i]
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+Auch der Paladin hat eine komplett neue Fähigkeit erhalten und seine ehemalige Heilblitz-Fertigkeit hat einen zusätzlichen Effekt bekommen und wurde umbenannt:
+
+[IMG]http://peq.pe.ohost.de/download167.jpg[/IMG][i][u]Licht der Reinigung:[/u] Heilt ein befreundetes Ziel, indem über Zeit Trefferpunkte regeneriert werden. Die Fähigkeit wird abgebrochen, wenn das Ziel den Wirkungsbereich verlässt. Wird 'Licht der Reinigung' bis zum Ende gewirkt, so wird die geheilte Einheit von allen aufhebbaren Zaubern, von denen sie betroffen ist, befreit.[/i]
+
+Als Ersatz für Göttliche Rüstung:
+
+[IMG]http://peq.pe.ohost.de/download206.jpg[/IMG] [i][u]Energiespalt:[/u] Immer, wenn der Paladin physischen Schaden erleidet, besteht eine Chance, dass heilige Lichtfunken aus der Wunde austreten, die daraufhin auf die schwerbeschädigste befreundete Einheit in der Nähe geschossen werden und sie heilen.[/i]
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+Trotz, dass ich die alten Fähigkeiten nun momentan nicht verwende, lasse ich sie übrigens noch in der Editor-Version der Karte bestehen. Vielleicht kann ich sie ja später noch einmal gebrauchen. Das bietet mir gleich einen gewissen Bestand an freien Fähigkeiten.
+
+Weiterhin ist ein neuer Freund ist hinzugestoßen:
+
+[center][IMG]http://peq.pe.ohost.de/download232.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Reisender Händler
+[*]Primäres Attribut: Beweglichkeit
+[*]Angriff: Nahkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download162.jpg[/IMG] [i][u]Werbegeschenk:[/u] Auf das Zielgebiet wird ein Paket geworfen, welches sich beim Aufschlag öffnet, Gegner im Umkreis verlangsamt und ihnen eine geringe Menge an Schaden zufügt.[/i]
+
+[IMG]http://peq.pe.ohost.de/download163.jpg[/IMG] [i][u]Siebenmeilenstiefel:[/u] Indem der Reisende Händler seine magischen Stiefel anzieht, wird seine Geschwindigkeit immens erhöht. Das Schuhwerk verbrennt dabei Mana mit der Zeit. Die Fähigkeit endet, wenn der Manavorrat des Helden ein Minimum unterschreitet.[/i]
+
+[IMG]http://peq.pe.ohost.de/download231.jpg[/IMG] [i][u]Umsatz:[/u] Die perfekte Aura für jeden Goblinhändler: Kunden lassen jetzt noch mehr Gold fallen, wenn sie getötet werden.[/i]
+
+[IMG]http://peq.pe.ohost.de/download165.jpg[/IMG] [i][u]Goldsauger (Ultimate):[/u] Da der Händler in diesem Land bisher noch nicht so wirklich Abnehmer anwerben konnte, hat er sich eine neue Stategie ausgedacht. Er saugt den Leuten förmlich das Gold aus den Taschen und füttert damit sein eigenes Portemonnaie.
+kanalisierend[/i][/list=a]
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+Wenn ich schon einmal dabei bin, zeig ich euch auch gleich noch drei weitere Gegenstände:
+
+[IMG]http://peq.pe.ohost.de/download208.jpg[/IMG] [i][u]Amulett der Bündelung:[/u] Der Träger dieses magischen Accessoires verrichtet 15% mehr Schaden durch Zauber.
+stapelbar[/i]
+
+[IMG]http://peq.pe.ohost.de/download207.jpg[/IMG] [i][u]Elixier des Wachstums:[/u]Lässt den Verbraucher sprunghaft anwachsen. Alle Attribute sind um 10 erhöht.|nHält 60 Sekunden lang an.
+nicht stapelbar[/i]
+
+[IMG]http://peq.pe.ohost.de/download209.jpg[/IMG] [i][u]Trank der unscheinbaren Form:[/u] Erhöht die Ausweichchance des Helden um 30%.|nHält 40 Sekunden lang an.
+nicht stapelbar[/i]
+
+Söldner:
+
+[IMG]http://peq.pe.ohost.de/download222.jpg[/IMG]
+
+Von links nach rechts: Dojo the Mojo, Eis-Troll-Priester, Haudrauf-Oger
+
+[i][u]Dojo the Mojo:[/u] Dieser Söldner verfügt über einen großen Vorrat an Trefferpunkten und hat einen harten Panzer.[/i]
+
+Dojo the Mojo besitzt folgende Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download224.jpg[/IMG] [i][u]Ablenkungsmanöver:[/u] Dojo sagt die Wahrheit, welche alle seine Gegner nicht verkraften können und ihn daraufhin angreifen.[/i]
+(die Beschreibung wollte Dojo so :D)
+
+[IMG]http://peq.pe.ohost.de/download223.jpg[/IMG][i][u]Hieb:[/u] Verleiht Dojo the Mojo die Chance, die Ziele seiner schweren Angriffe kurzzeitig zu betäuben.[/i]
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+[i][u]Eis-Troll-Priester:[/u] Dieser Söldner kann zwar mit weder mit Angriffskraft noch mit einer hohen Lebenserwartung glänzen, jedoch unterstützt er die anderen, indem er sie heilt.[/i]
+
+Eis-Troll-Priester verfügt über folgende Fähigkeit:
+
+[IMG]http://peq.pe.ohost.de/download225.jpg[/IMG] [i][u]Heilen:[/u] Heilt ein befreundetes Ziel
+automatisierbar[/i]
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+[i][u]Haudrauf-Oger:[/u] Der Haudrauf-Oger ist an physischer Brutalität kaum zu übertreffen. Mit seiner stumpfen Keule verarbeitet er die Ziele seiner Angriffe quasi zu Dosenfutter. Dafür verfügt er aber über keinerlei magische Fähigkeiten.[/i]
+
+Hier kann man mal zwei der Ereignisse sehen, die die Teams auslösen können:
+
+[IMG]http://peq.pe.ohost.de/download235.jpg[/IMG]
+
+Faust in Aktion, er taucht zufällig irgendwo in der Mitte auf. Er kann einiges einstecken und verfügt über ein begrenztes Flächenschadenfenster. Das heißt, der Flächenschaden wirkt nur auf die Einheiten, die in einem gewissen Kreissektor stehen mit Faust als Mittelpunkt und dem Primärziel auf dem Kreis. Als Belohnung für das Erlegen des Unterweltlers winkt ein kleiner Goldpreis.
+
+[IMG]http://peq.pe.ohost.de/download234.jpg[/IMG]
+
+Das Bild zeigt die Vergiftung des Brunnens. Anstatt zu heilen, zehrt der Brunnen dabei an den Trefferpunkten aller in der Nähe befindlichen Einheiten.
+
+Jeweils beide Ereignisse können nur einmal zur gleichen Zeit ausgelöst werden. Sie sind hauptsächlich dazu gedacht, dem King of the Hill-Prinzip in der Mitte entgegen zu wirken, dass die Spieler, die sich momentan dort aufhalten, Einhalt zu gebieten. Trotzdem kann man Faust auch als zusätzliche Einnahmequelle benutzen, es birgt dennoch ein Risiko, dass die anderen Teams das ausnutzen.
+
+Heute ist mir noch eine neue Sache eingefallen, die ich in die Karte einbringen könnte. Es wird ja einen Baumeister geben, den man sich kaufen kann und der dann zum Beispiel Türme errichten kann. Ich könnte ihm zusätzlich noch die Fähigkeit geben, die Textur einzelner Geländepunkte zu verändern und den Texturen verschiedene Effekte geben.
+
+Ich dachte daran, dass man auf Steinuntergrund bauen könnte, Türme beispielsweise wären dort platzierbar. Für Erde/Dreck würde sich anbieten, dass das Bewegungstempo der Einheiten verlangsamt wird. Gras könnte geringe Heileigenschaften aufweisen.
+
+In [URL=http://de.youtube.com/watch?v=JiPQFiFR9pE]diesem[/URL] kurzen Video sieht man übrigens einmal das Heldenwahlsystem. Ich habe die Helden erst einmal in eine Kollektion getan (die unteren 3/4 Buttons im Commandfeld sind Ausbaustufen, mit denen man die Kollektion wechseln kann), weil ja noch nicht so viele da sind. Man kommt an alle Helden schnell ran, da man das "Nach-links-Drehen" bzw. "Nach-rechts-Drehen" spammen kann und sich die Auswahl immer in derselben Zeit von der aktuellen Position aus zum Zielpunkt dreht (was auch den Vorteil hat, dass man die Drehgeschwindigkeit nicht überlasten kann, da man dazu quasi unendlich viele Male gleichzeitig klicken müsste).
+Die Fähigkeiten der Helden könnte ich noch in den Textnachrichten hinzufügen. Das Video hat keinen Sound, um es ein wenig stimmiger zu machen, geben die Helden Pissed-Sounds von sich, wenn die Drehung fertig ist.
+
+Ich habe mich nun dazu entschieden, die Arenen nur vom Aussehen her zu unterscheiden, um die Spielbalance damit nicht (bzw. kaum) zu beeinträchtigen. Geplant sind neben Wald (von welchem die bisherigen Bilder sind) noch Eiswüste und Tropen, von denen sich Spieler 1 (Rot) etwas aussuchen kann. Ideen für weitere Gegenstände und die letzten 2 Helden für die Betaphase stehen bereits. In den Osterferien habe ich endlich mal das System durch die ganze Karte durch überarbeitet, was mehrere Tage beanspruchte und ich schon vor längerer Zeit durchführen wollte.
+
+
+[center][IMG]http://peq.pe.ohost.de/download227.jpg[/IMG][/center]
+
+
+[center][IMG]http://peq.pe.ohost.de/download291.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Goblin-Techniker
+[*]Primäres Attribut: Intelligenz
+[*]Angriff: Nahkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download293.jpg[/IMG] [i][u]Hochofen:[/u] Indem der Techniker eine befreundete oder gegnerische Einheit mit seinem mechanischen Arm packt und diesen wieder einfährt, verfrachtet er das Ziel in seinen Energieabsorptionsrucksack. Dort ist es handlungsunfähig und ihm wird über eine Dauer periodisch Lebensenergie entzogen, die direkt in das Angriffs- und Verteidigungsmodul des Technikers übertragen wird, so dass Angriffstempo und Rüstung ansteigen. Wenn die Einheit infolge des Absorptionsprozesses stirbt, gibt sie weder Beute noch Erfahrung. Übersteht sie jedoch dessen Wirkung, so wird sie zur Startposition ihres Besitzers zurückbefördert.[/i]
+
+[IMG]http://peq.pe.ohost.de/download294.jpg[/IMG] [i][u]Kampfgolem:[/u] Konstruiert einen metallenen Golem, der über einen großen Vorrat an Trefferpunkten und Rüstung verfügt. Dieser unterstützt seinen Schöpfer im Kampf gegen seine Feinde, bis seine Batterie leer ist. Verfügt über die Fähigkeit 'Harter Schlag', die eine Chance gewährt, Angriffsziele wegzustoßen und sie für kurze Zeit in einen Zustand der Bewusstlosigkeit zu versetzen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download295.jpg[/IMG] [i][u]Feuerwerk:[/u] Schon als kleines Goblinkind hatte der Techniker eine Affinität zu Feuer und Explosionen, die seine Mitgoblins leider öfters als oft zu spüren bekamen. Diese Fertigkeit hat er bis heute perfektioniert und dabei nichts über Sicherheit dazugelernt. 'Feuerwerk' stellt eine geballte Ladung schlagkräftiger Argumente auf den Boden, die kurz darauf in Raketen und Funken aufgehen und leichte Schäden und Betäubungen verursachen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download296.jpg[/IMG] [i][u]Systemoptimierung (Ultimate):[/u] Werbung: Dieses Handbuch wurde mithilfe von einigen Experten auf dem Gebiet der modernen Waffentechnik wie Dojo exklusiv für sie zusammengestellt. Greifen sie noch heute nach dieser limierten Auflage. Sie werden es nicht bereuen. Sie erhalten:
+
+-zusätzlicher Laderaum für 'Hochofen'
+-mehr Trefferpunkte für 'Kampfgolem'
+-bessere Kompression für 'Feuerwerk', so dass das Spektakel noch länger anhält
+-dazu Gratis: Angriffsschadenbonus
+
+Bestellen sie jetzt für nur einen Fertigkeitspunkt.[/i][/list=a]
+
+
+
+[center][IMG]http://peq.pe.ohost.de/download292.jpg[/IMG][/center]
+
+[list=a]
+[*]Name: Schlangenkönigin
+[*]Primäres Attribut: Beweglichkeit
+[*]Angriff: Fernkampf
+[*]Fähigkeiten:
+
+[IMG]http://peq.pe.ohost.de/download297.jpg[/IMG] [i][u]Einschüchternder Blick:[/u] Als Königin der Schlangen hat diese Heldin immer ein wachsames Auge auf ihre Untertanen. Alle, die von ihrem Blick berührt werden, verspüren ein Gefühl von Furcht und ihr Nervensystem spielt verrückt. Diese Fähigkeit erfasst alle organischen Einheiten im Zielgebiet, erhöht den erlittenen physikalischen Schaden, verringert den Angriffsschaden und das Bewegungstempo.
+kanalisierend[/i]
+
+[IMG]http://peq.pe.ohost.de/download298.jpg[/IMG] [i][u]Schlangenpfeile:[/u] Die Schlangenkönigin ist eine meisterliche Bogenschützin, die auch gerne mal ihre Artgenossen als Geschosse verwendet. Dazu holt sie eine Schlange unter ihren Schuppen hervor, befestigt sie an einem ihrer Pfeile und spannt das Ergebnis in den Bogen. Dies hat den Vorteil, dass die Schlange beim Aufschlag das Ziel beißt, wodurch sie das Schadenspontential des Pfeils vergrößert und Blutungen verursacht, die Schaden über Zeit am Opfer verrichten. Befindet sich ein weiteres Ziel in Reichweite, so springt die Schlange schnell herüber und beißt auch dieses.[/i]
+
+[IMG]http://peq.pe.ohost.de/download299.jpg[/IMG] [i][u]Aspekt der Viper:[/u] Eine weitere Manipulationsfähigkeit dieser Heldin neben 'Einschüchternder Blick' ist der 'Aspekt der Viper'. Dabei lässt die Königin ihre Diener spezielle Gifte in befreundete Einheiten injezieren, die den Körper zwar nicht zerstören, aber von Zeit zu Zeit immer wieder einen Adrenalinstoß nach sich ziehen, der den Organismus in die Lage versetzt, die körperliche Kraft für kurze Zeit zu vervielfachen, um kritischen Schaden auszuteilen.[/i]
+
+[IMG]http://peq.pe.ohost.de/download300.jpg[/IMG] [i][u]Nahrungssuche (Ultimate):[/u] Wenn diese Fähigkeit gewirkt wird, schwärmen die Schlangen aus ihrer Königin aus - voller Hoffnung, etwas Essbares zwischen die Zähne zu bekommen. Deshalb greifen sie gegnerische organische Einheiten an, beißen sich ein Stück ab und bringen es wieder in den Unterschlupf zu ihrer Herrin, die natürlich auch etwas abbekommt und so ihre verlorenen Trefferpunkte wiederherstellt. Gebissene Einheiten werden in Zeitintervallen kurzzeitig betäubt.
+kanalisierend[/i][/list=a]
+
+[b]Alle gezeigten Icons sind geschützt durch Blizzard und wurden teilweise nachbearbeitet.[/b]
+
+Ps: Es wurde mir schon mitgeteilt, dass die Tooltips der Fähigkeiten teilweise zu umschreibend seien und ich mich auf die Wirkung beschränken solle. Die hier gezeigten Beschreibungen sind nur die Erlernen-Tooltips. Die Normal-Tooltips sind gekürzt und enthalten die konkreten Zahlenwerte.
+
+@BlackSheep: Ich werde erst auf Balance testen, wenn ich mit den Features zufrieden bin. Es ist ja noch nicht alles umgesetzt, was ich angekündigt hatte. Ich habe auch noch nicht alles wieder repariert. Aber ich glaube, die Karte befindet sich auf einem guten Weg. Sicherlich werde ich dann auch öffentlich testen lassen, ich habe keine Schar von Dienern, mit denen ich ständig voll besetzt durchprobieren könnte. Allerdings ist Betaphase so ein Begriff, der für mich quasi heißt: "Hier habt ihr etwas, aber ich versprecht euch nichts davon.". Ich verspreche ohnehin nichts. Version 1 wird wohl die erste spielbare Version sein, die die wichtigsten bis dato geplanten Merkmale enthält und voll spielbar ist.
+
+Die anderen Tooltips werde ich auch noch verbessern, keine Sorge. Die chronologisch sortierten Posts sind auch eher so eine Art Verlauf des Projektes. Ich werde mich bemühen, demnächst einmal den aktuellen Stand im ersten Post zusammenzufassen.
+
+@Hengis: Die Schlangenkönigin hat eine ähnliche ultimative Fähigkeit wie der Gruftlord (nicht Grubenlord) aus den Nahkampf-Spielen. Das ist mir bekannt. Jedoch finde ich, dass sie ganz gut passt. Es geht mir letztendlich nicht nur um Innovation, sondern auch um Gameplay. Ideen gut und schön, aber sie sind kontraproduktiv, wenn es sich am Ende dadurch schlechter spielen lässt. Atmosphäre und Gameplay stehen bei mir an erster Stelle. Deswegen kann ich auch schlecht um jeden Aspekt, der mir von anderen Spielen bekannt ist, herummanövrieren.
+
+Ihre Ultimate ist zwar vom Spielerischen fast genauso wie die vom Gruftlord, jedoch wie ein Großteil in dieser Karte selbst getriggert. Meine wct-Datei umfasst momentan unkomprimiert über 1 Megabyte. Die Karte ist bei ca. 620 Kilobytes, davon rund 100 Kilobytes importiertes Zeug.
+
+Den Kern werde ich nicht mehr verändern können, da könnte ich ebenso gut eine neue Karte anfangen, denn dann müsste ich ja quasi alles anpassen. Ich suche immer noch nach Innovationen, die mehr Spieltiefe verleihen und dem Gameplay nicht im Wege stehen. Vielleicht hast du gute Ideen? Ich stelle mein Projekt ja hier nicht nur zur Bewunderung vor.
+
+Effektvolle Terraintypen:
+
+Ich habe den Geländetypen jetzt einmal Effekte zugeteilt. Die Baumeister-Einheit kann diese während der Laufzeit platzieren und das aktuelle Gelände übermalen.
+
+Dreck:
+[IMG]http://peq.pe.ohost.de/download363.jpg[/IMG]
+Verlangsamt Einheiten.
+
+Ziegel:
+[IMG]http://peq.pe.ohost.de/download364.jpg[/IMG]
+Zurzeit der einzige Typ, auf dem man Gebäude bauen kann.
+
+Gras:
+[IMG]http://peq.pe.ohost.de/download365.jpg[/IMG]
+Stellt Trefferpunkte wiederher.
+
+Marmor:
+[IMG]http://peq.pe.ohost.de/download366.jpg[/IMG]
+Stellt Mana wiederher.
+
+Solide:
+[IMG]http://peq.pe.ohost.de/download367.jpg[/IMG]
+Dieser Typ kann weder gebaut noch ersetzt werden.
+
+Auf den Bildern sieht man die Exemplare aus der Wald-Arena. Da die anderen Arenen andere Tilesets benutzen, gibt es da jeweils für jeden Typ ein Pendant.

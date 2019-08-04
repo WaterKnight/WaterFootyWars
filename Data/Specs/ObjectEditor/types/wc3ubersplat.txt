@@ -1,0 +1,27 @@
+name
+raw
+classes
+
+texPath
+blendMode	0
+scale	190
+birthTime	1
+pauseTime	0
+decay	2
+
+redStart	255
+greenStart	255
+blueStart	255
+alphaStart	0
+
+redMid	255
+greenMid	255
+blueMid	255
+alphaMid	255
+
+redEnd	255
+greenEnd	255
+blueEnd	255
+alphaEnd	0
+
+sound

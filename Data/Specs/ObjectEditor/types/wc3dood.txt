@@ -1,0 +1,108 @@
+name
+raw
+profileIdent
+specials
+specialsTrue
+
+category
+
+selSize
+useClickHelper
+ignoreModelClicks
+
+model
+minScale
+maxScale
+defaultScale
+fixedRotation
+maxRoll
+maxPitch
+
+red
+green
+blue
+
+visRange
+showInFog
+animInFog
+
+hasShadow
+floats
+walkable
+
+minimapRed
+minimapGreen
+minimapBlue
+
+pathTex
+sound
+
+specialsTrue	vertR08=255
+specialsTrue	comment=Brazier
+specialsTrue	visRadius=50
+specialsTrue	vertB10=255
+specialsTrue	vertR09=255
+specialsTrue	vertB08=255
+specialsTrue	fixedRot=-1
+specialsTrue	vertR06=255
+specialsTrue	defScale=1
+specialsTrue	vertR05=255
+specialsTrue	vertG06=255
+specialsTrue	maxRoll=-
+specialsTrue	animInFog=0
+specialsTrue	maxScale=1.2
+specialsTrue	shadow=1
+specialsTrue	doodID=LObr
+specialsTrue	onCliffs=1
+specialsTrue	numVar=1
+specialsTrue	vertR03=255
+specialsTrue	MMGreen=0
+specialsTrue	ignoreModelClick=0
+specialsTrue	vertR01=255
+specialsTrue	vertG10=255
+specialsTrue	Name=WESTRING_DOOD_LOBR
+specialsTrue	vertG09=255
+specialsTrue	useClickHelper=0
+specialsTrue	maxPitch=-
+specialsTrue	selSize=0
+specialsTrue	vertB02=255
+specialsTrue	vertG05=255
+specialsTrue	vertB09=255
+specialsTrue	tilesets=*
+specialsTrue	MMRed=0
+specialsTrue	vertG04=255
+specialsTrue	InBeta=1
+specialsTrue	showInFog=1
+specialsTrue	vertG02=255
+specialsTrue	version=0
+specialsTrue	file=Doodads\LordaeronSummer\Props\Brazier\Brazier
+specialsTrue	vertG07=255
+specialsTrue	showInMM=0
+specialsTrue	vertB07=255
+specialsTrue	vertR07=255
+specialsTrue	vertB01=255
+specialsTrue	onWater=1
+specialsTrue	MMBlue=0
+specialsTrue	vertG01=255
+specialsTrue	pathTex=PathTextures\2x2Default.tga
+specialsTrue	floats=0
+specialsTrue	vertG03=255
+specialsTrue	soundLoop=LordSumBrazierLoop
+specialsTrue	canPlaceRandScale=1
+specialsTrue	vertB06=255
+specialsTrue	vertB03=255
+specialsTrue	vertR04=255
+specialsTrue	vertR10=255
+specialsTrue	tilesetSpecific=0
+specialsTrue	vertG08=255
+specialsTrue	walkable=0
+specialsTrue	useMMColor=0
+specialsTrue	vertR02=255
+specialsTrue	minScale=0.8
+specialsTrue	vertB05=255
+specialsTrue	vertB04=255
+specialsTrue	category=O
+specialsTrue	doodClass=_
+specials	dptx=
+specials	dnam=abc
+specials	dusr=1

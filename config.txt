@@ -1,0 +1,8 @@
+project=D:\Warcraft III\Mapping\WFW\
+data=D:\Warcraft III\Mapping\WFW\Data\
+specs=D:\Warcraft III\Mapping\WFW\Data\Specs\
+compile=D:\Warcraft III\Mapping\WFW\compiled\
+
+inputMap=D:\Warcraft III\Mapping\WFW\WaterFooty0.84.w3x
+outputMap=D:\Warcraft III\Mapping\WFW\output.w3x
+logTrackerLogPath=D:\Warcraft III\Logs\Defend Wintercastle\

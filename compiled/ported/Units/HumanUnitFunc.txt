@@ -1,0 +1,10 @@
+
+[Avul]
+Name="defaultName(spell) Avul"
+Buttonpos=0
+Animnames="spell"
+
+[Abdt]
+Name="defaultName(spell) Abdt"
+Buttonpos=0
+Animnames="spell"
